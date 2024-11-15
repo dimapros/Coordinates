@@ -1,4 +1,4 @@
-package com.example.coordinates.entity;
+package com.example.coordinates.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

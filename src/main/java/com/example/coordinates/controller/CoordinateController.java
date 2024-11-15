@@ -1,7 +1,7 @@
-package com.example.coordinates.controllers;
+package com.example.coordinates.controller;
 
-import com.example.coordinates.entity.Coordinate;
-import com.example.coordinates.services.CoordinateService;
+import com.example.coordinates.model.Coordinate;
+import com.example.coordinates.service.CoordinateService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

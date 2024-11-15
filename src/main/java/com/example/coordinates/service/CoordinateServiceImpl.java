@@ -1,8 +1,8 @@
-package com.example.coordinates.services;
+package com.example.coordinates.service;
 
-import com.example.coordinates.entity.Coordinate;
-import com.example.coordinates.entity.NominatimResponse;
-import com.example.coordinates.utils.Util;
+import com.example.coordinates.model.Coordinate;
+import com.example.coordinates.model.NominatimResponse;
+import com.example.coordinates.util.Util;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 

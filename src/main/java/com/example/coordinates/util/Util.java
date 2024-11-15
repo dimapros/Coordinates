@@ -1,4 +1,4 @@
-package com.example.coordinates.utils;
+package com.example.coordinates.util;
 
 import java.util.List;
 

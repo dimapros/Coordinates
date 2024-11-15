@@ -1,6 +1,6 @@
-package com.example.coordinates.services;
+package com.example.coordinates.service;
 
-import com.example.coordinates.entity.Coordinate;
+import com.example.coordinates.model.Coordinate;
 
 import java.util.List;
 

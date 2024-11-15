@@ -1,4 +1,4 @@
-package com.example.coordinates.entity;
+package com.example.coordinates.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
